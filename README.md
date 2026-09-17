@@ -1,6 +1,6 @@
 ### Smirnova Anya
 
-[mahiro.uk](https://mahiro.uk)
+[mahiro.uk](https://mahiro.uk) <br>
 [Contact me via email](contact@mahiro.uk)
 
 Computer Science student. I mostly write TypeScript and Swift, and build tools for things I actually need.
