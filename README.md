@@ -3,6 +3,8 @@ Contact me: contact@mahiro.uk
 
 I am a Computer Science student. I mostly write TypeScript and Swift, and build tools for things I actually need.
 
-**Projects**
+Currently looking for jobs. :)
+
+**Core Projects**
 
 - [Oyama's HRT Tracker](https://github.com/xunxunProjects/Oyama-s-HRT-Tracker): track HRT doses and simulate estradiol levels in the browser. PK model by [@LaoZhong-Mihari](https://github.com/LaoZhong-Mihari)
